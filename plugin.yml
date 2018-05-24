@@ -1,0 +1,9 @@
+name: TreasureRealmsCore
+version: 0.1
+author: Destructuctor
+main: me.TreasureRealms.coreMain.Main
+commands:
+    fly:
+        description: Let's you fly!
+        usage: /<command>
+        permission: treasurerealms.fly
